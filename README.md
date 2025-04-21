@@ -1,4 +1,4 @@
-# ChatApp : https://spd2-59068.web.app
+# ChatApp : https://spd2-59068.web.app (Made by Imad Atouani, Tarik Ouabrk, Abderrahmane Elbourkadi)
 
 ## Project setup
 ```
